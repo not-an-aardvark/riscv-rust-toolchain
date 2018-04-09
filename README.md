@@ -5,7 +5,7 @@
 ## Getting started
 1. Get the source
 ```sh
-git clone --recursive https://github.com/riscv-rust/riscv-rust-toolchain
+git clone --recursive https://github.com/not-an-aardvark/riscv-rust-toolchain
 cd riscv-rust-toolchain
 ```
 
